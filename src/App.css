@@ -1,0 +1,87 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+}
+
+/* Animation for bookmark button */
+@keyframes bounce {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+.bookmark-animation {
+  animation: bounce 0.5s ease;
+}
+/* In your App.css */
+.shadow-cute {
+  box-shadow: 0 4px 15px rgba(255, 182, 193, 0.3);
+}
+
+.cute-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.cute-scrollbar::-webkit-scrollbar-track {
+  background: #ffebf3;
+  border-radius: 10px;
+}
+
+.cute-scrollbar::-webkit-scrollbar-thumb {
+  background: #ffb6c1;
+  border-radius: 10px;
+}
+@keyframes wiggle {
+  0% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(5deg);
+  }
+  50% {
+    transform: rotate(-5deg);
+  }
+  75% {
+    transform: rotate(5deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+.animate-wiggle {
+  animation: wiggle 0.5s ease-in-out;
+}
+
+.shadow-cute {
+  box-shadow: 0 4px 15px rgba(255, 182, 193, 0.3);
+}
+
+.shadow-cute-hover {
+  box-shadow: 0 8px 25px rgba(255, 182, 193, 0.4);
+}
+
+.cute-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.cute-scrollbar::-webkit-scrollbar-track {
+  background: #ffebf3;
+  border-radius: 10px;
+}
+
+.cute-scrollbar::-webkit-scrollbar-thumb {
+  background: #ffb6c1;
+  border-radius: 10px;
+}
