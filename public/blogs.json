@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+    "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
     "title": "Top 10 ES6 Features You Must Know",
-    "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+    "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
     "author": "Hamza Sohail",
     "posted_date": "September 15, 2023",
     "reading_time": 5,
@@ -11,9 +11,9 @@
   },
   {
     "id": 2,
-    "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+    "cover": "https://images.unsplash.com/photo-1547658719-da2b51169166",
     "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
-    "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+    "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
     "author": "Sajal Ali",
     "posted_date": "August 28, 2023",
     "reading_time": 4,
@@ -21,9 +21,9 @@
   },
   {
     "id": 3,
-    "cover": "https://i.ibb.co/RzGzcPg/3.png",
+    "cover": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
     "title": "Component lifecycle in React — Class component vs Functional component",
-    "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+    "author_img": "https://randomuser.me/api/portraits/men/75.jpg",
     "author": "Feroze Khan",
     "posted_date": "July 10, 2023",
     "reading_time": 10,
@@ -31,12 +31,152 @@
   },
   {
     "id": 4,
-    "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+    "cover": "https://images.unsplash.com/photo-1626785774573-4b799315345d",
     "title": "Free images and resources collection for website",
-    "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+    "author_img": "https://randomuser.me/api/portraits/women/63.jpg",
     "author": "Anmol Baloch",
     "posted_date": "June 5, 2023",
     "reading_time": 9,
     "hashtags": ["development", "resources"]
+  },
+  {
+    "id": 5,
+    "cover": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d",
+    "title": "CSS Grid vs Flexbox: When to Use Each",
+    "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
+    "author": "Sajal Ali",
+    "posted_date": "May 22, 2023",
+    "reading_time": 7,
+    "hashtags": ["css", "layout", "webdesign"]
+  },
+  {
+    "id": 6,
+    "cover": "https://images.unsplash.com/photo-1563013544-824ae1b704d3",
+    "title": "Node.js Best Practices for 2023",
+    "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
+    "author": "Hamza Sohail",
+    "posted_date": "April 18, 2023",
+    "reading_time": 12,
+    "hashtags": ["nodejs", "backend", "bestpractices"]
+  },
+  {
+    "id": 7,
+    "cover": "https://images.unsplash.com/photo-1551650975-87deedd944c3",
+    "title": "Building Accessible Web Applications",
+    "author_img": "https://randomuser.me/api/portraits/men/75.jpg",
+    "author": "Feroze Khan",
+    "posted_date": "March 5, 2023",
+    "reading_time": 8,
+    "hashtags": ["accessibility", "a11y", "inclusive"]
+  },
+  {
+    "id": 8,
+    "cover": "https://images.unsplash.com/photo-1579403124614-197f69d8187b",
+    "title": "TypeScript for JavaScript Developers",
+    "author_img": "https://randomuser.me/api/portraits/women/63.jpg",
+    "author": "Anmol Baloch",
+    "posted_date": "February 14, 2023",
+    "reading_time": 11,
+    "hashtags": ["typescript", "javascript", "webdev"]
+  },
+  {
+    "id": 9,
+    "cover": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
+    "title": "Python Crash Course for Beginners",
+    "author_img": "https://randomuser.me/api/portraits/men/22.jpg",
+    "author": "Ali Raza",
+    "posted_date": "January 30, 2023",
+    "reading_time": 15,
+    "hashtags": ["python", "beginners"]
+  },
+  {
+    "id": 10,
+    "cover": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+    "title": "Data Science Fundamentals",
+    "author_img": "https://randomuser.me/api/portraits/women/33.jpg",
+    "author": "Fatima Khan",
+    "posted_date": "December 12, 2022",
+    "reading_time": 18,
+    "hashtags": ["datascience", "ai"]
+  },
+  {
+    "id": 11,
+    "cover": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45",
+    "title": "Linux Command Line Essentials",
+    "author_img": "https://randomuser.me/api/portraits/men/45.jpg",
+    "author": "Bilal Ahmed",
+    "posted_date": "November 5, 2022",
+    "reading_time": 14,
+    "hashtags": ["linux", "devops"]
+  },
+  {
+    "id": 12,
+    "cover": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b",
+    "title": "Docker for Web Developers",
+    "author_img": "https://randomuser.me/api/portraits/women/55.jpg",
+    "author": "Zara Khan",
+    "posted_date": "October 20, 2022",
+    "reading_time": 16,
+    "hashtags": ["docker", "containers"]
+  },
+  {
+    "id": 13,
+    "cover": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d",
+    "title": "Git Version Control Mastery",
+    "author_img": "https://randomuser.me/api/portraits/men/66.jpg",
+    "author": "Usman Ali",
+    "posted_date": "September 8, 2022",
+    "reading_time": 9,
+    "hashtags": ["git", "versioncontrol"]
+  },
+  {
+    "id": 14,
+    "cover": "https://images.unsplash.com/photo-1516116216624-53e697fedbea",
+    "title": "REST API Design Principles",
+    "author_img": "https://randomuser.me/api/portraits/women/77.jpg",
+    "author": "Ayesha Malik",
+    "posted_date": "August 15, 2022",
+    "reading_time": 12,
+    "hashtags": ["api", "backend"]
+  },
+  {
+    "id": 15,
+    "cover": "https://images.unsplash.com/photo-1551434678-e076c223a692",
+    "title": "GraphQL vs REST: Which to Choose?",
+    "author_img": "https://randomuser.me/api/portraits/men/88.jpg",
+    "author": "Kamran Shah",
+    "posted_date": "July 3, 2022",
+    "reading_time": 11,
+    "hashtags": ["graphql", "api"]
+  },
+  {
+    "id": 16,
+    "cover": "https://images.unsplash.com/photo-1563986768609-322da13575f3",
+    "title": "Machine Learning Basics",
+    "author_img": "https://randomuser.me/api/portraits/women/99.jpg",
+    "author": "Nadia Hussain",
+    "posted_date": "June 18, 2022",
+    "reading_time": 20,
+    "hashtags": ["ml", "ai"]
+  },
+  {
+    "id": 17,
+    "cover": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935",
+    "title": "Cybersecurity Fundamentals",
+    "author_img": "https://randomuser.me/api/portraits/men/11.jpg",
+    "author": "Tariq Mahmood",
+    "posted_date": "May 9, 2022",
+    "reading_time": 15,
+    "hashtags": ["security", "cybersecurity"]
+  },
+  {
+    "id": 18,
+    "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "title": "IoT Development with Arduino",
+    "author_img": "https://randomuser.me/api/portraits/women/22.jpg",
+    "author": "Sana Khan",
+    "posted_date": "April 2, 2022",
+    "reading_time": 18,
+    "hashtags": ["iot", "arduino"]
   }
 ]
